@@ -33,6 +33,8 @@ p $最後にマッチした文字列
 # => "hello,"
 ```
 
+より詳しい情報は [Japanese/Japanese.rb](https://github.com/pocke/Japanese/blob/master/lib/Japanese.rb) を参照して下さい。
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
