@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Masataka Kuwabara"]
   spec.email         = ["kuwabara@pocke.me"]
 
-  spec.summary       = %q{}
-  spec.description   = %q{}
+  spec.summary       = %q{グローバル変数に日本語の別名をつけます。}
+  spec.description   = %q{グローバル変数に日本語の別名をつけます。}
   spec.homepage      = "https://github.com/pocke/Japanese"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
