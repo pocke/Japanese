@@ -1,6 +1,7 @@
 # Japanese
 
 [![Gem Version](https://badge.fury.io/rb/Japanese.svg)](https://badge.fury.io/rb/Japanese)
+[![Build Status](https://travis-ci.org/pocke/Japanese.svg?branch=master)](https://travis-ci.org/pocke/Japanese)
 
 グローバル変数に日本語の別名をつけます。
 
